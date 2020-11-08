@@ -1,7 +1,12 @@
-### Hi there 👋
-### Mikaela Andrea Libeta, 20, Philippines
+### Hey Girl 👋
+<h3> MIKAELA ANDREA A. LIBETA, 20, PHILIPPINES </h3>
+
 ### Pronouns: 
     she, her 👩
+    
+<img src="https://github.com/MikaelaAndrea/MikaelaAndrea/blob/main/_MG_0343.JPG" alt="meee" width="200"/>
+    
+
 <!--
 **MikaelaAndrea/MikaelaAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
