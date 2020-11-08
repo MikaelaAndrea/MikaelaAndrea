@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Mikaela Andrea Libeta, 20, Philippines
 ### Pronouns: 
-    she, her :woman:
+    she, her 👩
 <!--
 **MikaelaAndrea/MikaelaAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
