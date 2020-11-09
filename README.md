@@ -12,6 +12,7 @@
 
 ### About me ✨ 
      Probably the laziest person you'll ever meet, but I get things done. 😉 
+     3rd year Information Technology Student at West Visayas State University. 
      
 ### I’m currently learning to🌱:
      * Flutter
@@ -35,7 +36,8 @@
        twitter: mikaelaylibeta
        instagram: mikaelaylibeta
        email: mikalibeta@wvsu.edu.ph
- 💬 Ask me about anything
+       
+ 💬 Don't hesitate to reach out, you ask me anything.💛
 
 ### ⚡ Fun fact:⚡
      * I can touch the tip of nose with my tounge. 
