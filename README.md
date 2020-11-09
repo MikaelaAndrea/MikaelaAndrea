@@ -1,8 +1,8 @@
 ### Hey Girl 👋
-<h3> MIKAELA ANDREA A. LIBETA, 20, PHILIPPINES </h3>
+<h3> Mikaela Andrea Libeta, 20, Philippines🌸</h3>
 
 ### Pronouns: 
-    she, her 👩
+    she, her, miss 👩
     
 <img src="https://github.com/MikaelaAndrea/MikaelaAndrea/blob/main/_MG_0343.JPG" alt="meee" width="200"/>
     
@@ -32,17 +32,17 @@
          *Design 
       
 ### 📫 How to reach me: 
-       facebook: Mikaela Andrea A. Libeta
-       twitter: mikaelaylibeta
-       instagram: mikaelaylibeta
-       email: mikalibeta@wvsu.edu.ph
+       facebook 😆📘: Mikaela Andrea A. Libeta
+       twitter 🐤: mikaelaylibeta
+       instagram 📷: mikaelaylibeta
+       email ✉️: mikalibeta@wvsu.edu.ph
        
- 💬 Don't hesitate to reach out, you ask me anything.💛
+ <p text-align=center> 💬 Don't hesitate to reach out, you can ask me out hahha char, but seriously, you can ask me anything.💛</p>
 
 ### ⚡ Fun fact:⚡
-     * I can touch the tip of nose with my tounge. 
-     * I'm a picky eater. 
-     * I love true crime documentaries 
+     * I'm a picky eater. 🍒
+     * I love true crime documentaries.🔪
+     * I notice everything.🕵️‍♀️
 
 
 
