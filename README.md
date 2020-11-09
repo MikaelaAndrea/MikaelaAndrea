@@ -11,23 +11,31 @@
 **MikaelaAndrea/MikaelaAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### About me ✨ 
-     Probably the laziest person you'll ever meet, trust me. 
-### I’m currently learning to:🌱
+     Probably the laziest person you'll ever meet, but I get things done. 😉 
+     
+### I’m currently learning to🌱:
      * Flutter
      * Dart
      * InDesign 
+     * Photoshop
+     * Python
 
-### I’m currently working on: 🔭
+### I’m currently working on🔭:
+      * Schoolwork(s)
     
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with everything.
-- 💬 Ask me about anything, don't expect a straight answer though 
+### I’m looking to collaborate on 👯:
+        Anything actually, just hit me up on my socials.
+        
+ ### Need help for🤔:
+         *Coding 
+         *Design 
+      
 ### 📫 How to reach me: 
-       facebook: mikaela andrea a. libeta
-       twitter: mikaelaylibeta 
+       facebook: Mikaela Andrea A. Libeta
+       twitter: mikaelaylibeta
        instagram: mikaelaylibeta
        email: mikalibeta@wvsu.edu.ph
+ 💬 Ask me about anything
 
 ### ⚡ Fun fact:⚡
      * I can touch the tip of nose with my tounge. 
