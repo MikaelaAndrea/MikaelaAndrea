@@ -37,7 +37,7 @@
        instagram 📷: mikaelaylibeta
        email ✉️: mikalibeta@wvsu.edu.ph
        
- <p text-align=center> 💬 Don't hesitate to reach out, you can ask me out hahha char, but seriously, you can ask me anything.💛</p>
+💬 Don't hesitate to reach out, you can ask me out hahha char, but seriously, you can ask me anything.💛
 
 ### ⚡ Fun fact:⚡
      * I'm a picky eater. 🍒
